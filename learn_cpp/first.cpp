@@ -6,7 +6,7 @@
 /*   By: fech-cha <fech-cha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/28 07:10:23 by fech-cha          #+#    #+#             */
-/*   Updated: 2022/06/29 01:53:22 by fech-cha         ###   ########.fr       */
+/*   Updated: 2022/07/01 04:04:37 by fech-cha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,11 +23,17 @@
 // 	return (0);
 // }
 
-int main()
+// int main()
+// {
+// 	std::cout << "Enter any number: " << std::endl;
+// 	int n1 = 0;
+// 	std::cin >> n1;
+// 	std::cout << "The number is " << n1 << std::endl;
+// 	return (0);
+// }
+
+int main ()
 {
-	std::cout << "Enter any number: " << std::endl;
-	int n1 = 0;
-	std::cin >> n1;
-	std::cout << "The number is " << n1 << std::endl;
-	return (0);
+	std::cout << "Testing newline. \n";
+	std::cout << "Test2";
 }
